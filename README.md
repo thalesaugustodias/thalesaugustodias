@@ -1,7 +1,7 @@
 ### Olá, Eu sou Thales! Seja bem vindo ao meu repositório! 👋
 
-- 🔭 Hoje meus maiores conhecimentos são com tecnologias Front-End
-- 🌱 Atualmente estou estudando C# .NET e ASP .NET
+- 🔭 Hoje meus maiores conhecimentos são em .NET e ASP .NET MVC 5
+- 🌱 Atualmente estou estudando C# .NET, ASP .NET Core, ASP .NET MVC 5 e Angular
 
 <div align="center">
   <a href="https://github.com/thalesaugustodias">
@@ -20,7 +20,7 @@
   <div align="center"> 
    <br>  
   <a href="https://www.linkedin.com/in/thales-augusto-dias-3b03b5199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thalesdias97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:thales.cooperx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
   ![Snake animation](https://github.com/thalesaugustodias/thalesaugustodias/blob/output/github-contribution-grid-snake.svg)
